@@ -1,4 +1,4 @@
-# Diwali-sales-analysis-using-python-and-jupter-notebook
+# Diwali-sales-analysis-using-python-and-jupyter-notebook
 Excited to share the culmination of our Diwali Sale Report project, crafted with Python and Jupyter Notebook! 🪔📊 Leveraging the versatility of Python, we transformed raw data into actionable insights. Kudos to the team for their coding prowess and data-driven approach!
 
 ## Project Learnings
